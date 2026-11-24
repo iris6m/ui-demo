@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/style2", "destination": "/index.html" }
+  ]
+}
